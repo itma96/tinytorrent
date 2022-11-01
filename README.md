@@ -1,1 +1,1 @@
-# tinytorrent
+A torrent client copy-cat implementation using python and virtual environments
